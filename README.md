@@ -100,8 +100,3 @@ The training dataset is not included in this repository.
 
 MediScan is an educational machine learning project developed for learning and demonstration purposes. Its predictions and symptom checker are not medically validated and must not be used for actual diagnosis or treatment decisions. Always consult a qualified healthcare professional.
 
-## 👩‍💻 Author
-
-**Monika Raghav**
-
-GitHub: [@monikaragh
