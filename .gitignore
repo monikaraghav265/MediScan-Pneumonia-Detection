@@ -1,0 +1,5 @@
+mediscan-env/
+train/
+test/
+__pycache__/
+*.pyc
